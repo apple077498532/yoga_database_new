@@ -1,0 +1,7 @@
+{
+  "name": "Yoga AI Assistant",
+  "description": "A modern yoga knowledge base for students and teachers with AI-assisted features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
